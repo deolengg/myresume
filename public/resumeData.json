@@ -1,47 +1,36 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Jaskaran Deol",
+    "description":"Full Stack Software Engineer, experienced MERN Stack developer (Mongo DB, Express JS, React JS, Node JS)",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am an Full Stack Software Engineer and I have been working full time over 3 years of web development for enterprise applications using React JS, Express JS, MongoDB, Node JS, using Javascript/TypeScript (almost) an expert for building out scalable and resilient applications. In my first real technical job interview, I was asked 'Best Honest! and rate yourself out of 10 for Javascript, and time after time, i ask this question myself, now after so many years, deep in the woods, i would rate myself close to 8.5 to 9. I enjoy feature development, fast phased development cycle and constantly push the bounds of Agile for continuous work delivery.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "er.jaskarandeol@gmail.com",
+    "phone": "647-551-1670",
+    "github":"https://github.com/deolengg",
+    "project":"https://www.linkedin.com/in/jaskaran-deol/",
+    "stackOverFlow":"https://stackoverflow.com/users/7679803/jaskaran-deol",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Toronto",
+      "state":"Ontario"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jaskaran-deol/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name":"github",
+        "url":"https://github.com/deolengg",
+        "className":"fa fa-github"
       },
       {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "name":"stackOverFlow",
+        "url":"https://stackoverflow.com/users/7679803/jaskaran-deol",
+        "className":"fa fa-stack-overflow"
       }
     ]
   },
@@ -49,56 +38,75 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Humber College (North Campus), ON",
+        "degree":"Information Technology Solutions, Enterprise Development",
+        "graduated":"April 2018"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Lovely Professional University",
+        "degree":"B.E (Information Technology)",
+        "graduated":"August 2015"
+      },
+      {
+        "school":"Lovely Professional University",
+        "degree":"Diploma In Information Technology",
+        "graduated":"August 2011"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Postmedia Networks Inc.",
+        "title":"Software Developer ",
+        "years":"December 2019 - Present",
+        "description":"Hub reporting is a Data analytics app for the customers and internal employees which represents in depth analysis for the number of products breakdown for the ads and campaigns results across from fetched data from multiple platforms like Facebook, Google, Youtube, Spotify etc. App has many features like PDF reports, IM for clients and internal employees, order tracking system other then detailed breakdown of data for each product. Maintain and develop new features for Hub and common UX library. Develop and maintain micro-services for Back end. Documenting solution architecture for the high-volume online service reducing the TTM (time-to-market) by ensuring high code maintainability. Reverse-Engineering legacy modules related to business-critical progressive web application, resulting in uncovering and validation undocumented functional and un-functional requirements. Reviewing the quality of code for the business-critical progressive web application maintaining code and design consistency across different team members."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Manulife",
+        "title":"Front End Software Engineer",
+        "years":"July 2018 - November 2019",
+        "description":"Customer portal app is about one common platform for users who owns more one Manulife’s Products and the users are in millions. It’s a platform where user can add Manulife products to the portal and view and manage their assets including support for e-documents from different B.Us. My responsibilities are pretty dynamic, but heavy on feature development. As part of Full-Stack, I Solution, Develop, DevOps & Test, which involves working with multiple frameworks and involves solutioning and developing reusable components while maintaining the high coding standards and also everaging best agile practices for monthly or semi-monthly product releases, including warranty period for Production which involves support to the production L2 team. Code coverage and code quality is maintained to meet the sonarqube standards set by department and housekeeping work (Technical debt) by code refactoring improving code readability and documentation. Constant development and improvement for automation testing using web-driver and tool for regression testing of Customer Portal's App to ensure the Quality and stability of each environment."
+      },
+      {
+        "company":"Infinity Grace",
+        "title":"Team Lead & Back End Software Developer (Intern)",
+        "years":"January 2018 - April 2018",
+        "description":"Developed and Hosted Dynamic microservices and Questionnaire engine at server and App consuming services and dynamically renders Questionnaires for given service and providing recommendations according to the requested service. Coach my team, assigned work and help them working out their technical issues. I developed API routes and hosted app on AWS EC2 for prototype development."
+      },
+      {
+        "company":"Arun Gas",
+        "title":"Full Stack Software Developer (Intern)",
+        "years":"November 2015 - June 2016",
+        "description":"This was my first intern, Worked on ERP (Enterprise resource planning) based Framework on Frappe. Developed earlier version for Delivery App using Iconic framework. Coached our internal employees for using the apps and resolved their technical issues on the fly."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"Javascript/Typescript",
+        "level":"85%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"ExpressJs",
+        "level":"99%"
+      },
+      {
+        "name":"CSS",
         "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Docker",
+        "level":"60%"
+      },
+      {
+        "name":"Jest",
+        "level":"80%"
       },
       {
         "name":"JAVA",
@@ -109,76 +117,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Github Repositories",
+        "category":"Multipe personal projects, Foundation of Jaskaran Deol Engineering career.",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/deolengg?tab=repositories"
       }
     ]
   }
